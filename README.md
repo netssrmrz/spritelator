@@ -1,2 +1,2 @@
-# spritelator
+# Spritelator
 CSS Animation Studio 
